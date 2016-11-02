@@ -1,0 +1,21 @@
+{
+  "name": "merkle-fsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arraybuffer-to-buffer": "0.0.4",
+    "cbor-js": "^0.1.0",
+    "cuckoo-filter": "^1.0.1",
+    "multihashing": "^0.2.1",
+    "to-array-buffer": "^1.2.0"
+  },
+  "devDependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
